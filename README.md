@@ -1,11 +1,18 @@
 # CommonGroundSocial
-POC for CommonGroundSocial: bringing people together in open discussion while respecting freedom of expression.
-name it
-Paste the content above.  
-Scroll down and click **Commit new file**.
-Once done, anyone visiting your GitHub repo will immediately see:  
-What **CommonGroundSocial** is about  
-Its **purpose and features**  
-Instructions for running/viewing the POC 
-If you want, I can **also add a section in the README** for **early beta signups** or an **email form**, so your POC starts collecting interest right away.  
-Do you want me to do that next?
+
+**Proof of Concept – A Community Platform for Open, Respectful Discussion**
+
+CommonGroundSocial is a proof-of-concept social platform designed to bring people of all beliefs, backgrounds, and political perspectives together for **honest, respectful, and fact-based conversations**. The mission is to provide a space for **free speech while preventing hate, violence, and harassment**.
+
+## Features
+- Open discussion categories (Faith & Life, Politics & Society, Ask Anything, etc.)
+- User-friendly, clean, mobile-friendly interface
+- Clear community guidelines for respectful dialogue
+- Proof of concept setup for demonstration purposes
+
+## Purpose
+This repository contains the **POC landing page** for CommonGroundSocial. It is intended to demonstrate the platform’s concept and early structure to potential investors, collaborators, and beta users.
+
+## Tech Stack
+- HTML/CSS for landing page
+- Hosted
